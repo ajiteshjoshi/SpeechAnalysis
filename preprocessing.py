@@ -23,7 +23,7 @@ class preprocessor(object):
         self.speeches_data = []
         self.data_folder = folder
         self.words_a= []
-        
+        gkrkdk
     def individual_processor(self, path, q):
         
         '''
